@@ -1,0 +1,4 @@
+# original uncompressed uploads — the site ships the compressed versions only
+_source/
+.claude/
+node_modules/
